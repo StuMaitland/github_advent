@@ -108,6 +108,3 @@ for line in lines:
         opt_fields = dict.fromkeys(opt_fields, False)
         continue
 print(correct_count)
-
-
-
